@@ -1,0 +1,13 @@
+INÍCIO
+	1. Abrir os olhos
+	2. Levantar da cama
+	3. Se despertador está tocando
+		3.1 Desligar despertador
+	4. Ir ao banheiro
+	5. Escovar os dentes
+	6. Tomar banho
+	7. Voltar ao quarto
+	8. Vestir-se
+	9. Arrumar a cama
+	10. Continuar as atividades do dia
+FIM

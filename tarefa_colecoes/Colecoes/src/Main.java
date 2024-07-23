@@ -22,12 +22,12 @@ public class Main {
 
         for (String item : lista) {
 
-                String[] itemSplit = item.split("\\+");
-                if (itemSplit[1].equals("F")) {
-                    nomesF.add(itemSplit[0]);
-                } else {
-                    nomesM.add(itemSplit[0]);
-                }
+            String[] itemSplit = item.split("\\+");
+            if (itemSplit[1].equals("F")) {
+                nomesF.add(itemSplit[0]);
+            } else {
+                nomesM.add(itemSplit[0]);
+            }
 
         }
 
